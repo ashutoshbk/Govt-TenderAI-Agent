@@ -2,7 +2,7 @@
 
 **Govt TenderAI Agent** is an intelligent, Streamlit-based AI tool designed to analyze Indian government tender documents. It helps contractors, consultants, and businesses extract key sections, understand requirements, compare tenders, and classify user queries as RFIs — all using powerful LLM-based agents.
 
-![Project Image](gove_tenderAI_agent.png)
+![Project Image](gov_tenderAI_agent.png)
 ---
 
 ## 🚀 Features
